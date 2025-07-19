@@ -59,5 +59,5 @@ El cuaderno permite exportar:
   
 ## Si tienes dudas o quieres colaborar, puedes contactarme en:
 
-* Correo: cmpmendoza12@gmail.com
-* GitHub: [[w2k31984](https://github.com/w2k31984/)]
+- :email: Correo: cmpmendoza12@gmail.com
+- :postbox: GitHub: [[w2k31984](https://github.com/w2k31984/)]
