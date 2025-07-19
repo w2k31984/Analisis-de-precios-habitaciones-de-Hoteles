@@ -11,11 +11,11 @@ Se han construido y evaluado **cuatro modelos** con distintas combinaciones de v
 
 ## 📁 Estructura del Proyecto
 hotel_pricing_model/
-├── master/ # Carpeta con los datos de entrada
-│ └── hotels.csv
-├── README.md # Este archivo
-├── LICENSE # Este archivo
-├──Fijacion_de_precios_de_Habitaciones_de_hoteles.ipynb # Carpeta con los cuadernos de análisis
+- ├── master/ # Carpeta con los datos de entrada
+- │ └── hotels.csv
+- ├── README.md # Este archivo
+- ├── LICENSE # Este archivo
+- ├──Fijacion_de_precios_de_Habitaciones_de_hoteles.ipynb # Carpeta con los cuadernos de análisis
 
 
 ## 🧪 Modelos Entrenados
